@@ -13,5 +13,4 @@ This concept of online test fulfils the following requirements:
 2)It provides best facilities for the students to answer the question only with a single click.\
 3)It saves time as well as money.
 
-![FLOWCHART](https://user-images.githubusercontent.com/52505088/139309424-1f7ecf9c-14f1-4a18-af07-ac315f5e5c99.png)
 
