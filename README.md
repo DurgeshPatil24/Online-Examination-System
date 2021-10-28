@@ -5,12 +5,12 @@ If you do not wish to answer a particular question you can move on to next quest
 
 The environment used for this project is JAVA. This project is based on core JAVA. The software used for this java SDK1.5, Window 10 operating system.
 
-OBJECTIVES
+#OBJECTIVES
 
 This concept of online test fulfils the following requirements:
 
-1)It provides a less expensive as well as an effective method of performing examinations.
-2)It provides best facilities for the students to answer the question only with a single click.
+1)It provides a less expensive as well as an effective method of performing examinations.__
+2)It provides best facilities for the students to answer the question only with a single click.__
 3)It saves time as well as money.
 
 ![FLOWCHART](https://user-images.githubusercontent.com/52505088/139309424-1f7ecf9c-14f1-4a18-af07-ac315f5e5c99.png)
